@@ -4,6 +4,18 @@
 
 A simple music API that uses JWT auth
 
+## Resources
+
+#### Before install
+Python 3.6.8
+Pip 19.2.2
+
+#### Installed through Pipfile
+Django 2.0.3
+DjangoRestFramework
+DjangoRestFramework-JWT
+
+
 ## Installation
 
 ```
