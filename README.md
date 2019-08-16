@@ -7,7 +7,7 @@ A simple music API that uses JWT auth
 ## Installation
 
 ```
-$ git clone 
+$ git clone https://github.com/SowmyaAji/GetaSong.git
 $ cd to the cloned repository
 $ pipenv shell
 $ pip install -r requirements.txt
