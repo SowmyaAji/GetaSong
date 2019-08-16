@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple API using a local data base to get song names and artists, that uses JWT auth
+A simple API backend using a local data base to get song names and artists, that uses JWT auth
 
 ## Resources
 
