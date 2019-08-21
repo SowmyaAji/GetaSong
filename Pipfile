@@ -6,10 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "==2.0.3"
-djangorestframework = "*"
-djangorestframework-jwt = "*"
-pur = "*"
+djangorestframework = "==3.10.2"
+djangorestframework-jwt = "==1.11.0"
+pytz = "==2019.2"
+Django = "==2.2.4"
+PyJWT = "==1.7.1"
 
 [requires]
 python_version = "3.6"
