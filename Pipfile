@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-djangorestframework = "==3.10.2"
+djangorestframework = "==3.11.2"
 djangorestframework-jwt = "==1.11.0"
 pytz = "==2019.2"
 Django = "==2.2.4"
